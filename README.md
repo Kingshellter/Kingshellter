@@ -1,16 +1,75 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Kingshellter/Kingshellter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kingshellter+%F0%9F%91%8B;Web+Developer+%7C+Game+Dev+%7C+Composer;Building+with+AI%2C+Code+%26+Music)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=Kingshellter&color=6E56CF&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```gdscript
+class_name Kingshellter extends Developer
+
+var roles    = ["Web Developer", "Game Developer", "Game Composer"]
+var stack    = ["React", "Next.js", "Node.js", "Godot (GDScript)"]
+var tools    = ["AI-assisted development", "GitHub Copilot"]
+var music    = ["Game OST"]
+```
+
+---
+
+## 🌐 Web Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🎮 Game Development
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+
+## 🎵 Music & Composition
+
+![FL Studio](https://img.shields.io/badge/FL%20Studio-FF6E00?style=for-the-badge&logo=image%2Fpng&logoColor=white)
+
+> 🎼 I compose original soundtracks for games — from chiptune to orchestral ambience.
+
+---
+
+## 🤖 AI Tools I Use
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingshellter&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingshellter&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kingshellter&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kingshellter&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+  <sub>Built with ❤️, ☕, and a little AI magic — Kingshellter</sub>
+</div>
