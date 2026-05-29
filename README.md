@@ -60,16 +60,6 @@ var music    = ["Game OST"]
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingshellter&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingshellter&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kingshellter&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kingshellter&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-  <sub>Built with ❤️, ☕, and a little AI magic — Kingshellter</sub>
 </div>
