@@ -13,21 +13,16 @@
 ```gdscript
 class_name Kingshellter extends Developer
 
-var roles    = ["Web Developer", "Game Developer", "Game Composer"]
-var stack    = ["React", "Next.js", "Node.js", "Godot (GDScript)"]
+var roles    = ["Web Developer", "Game Developer"]
+var stack    = ["Next.js", "Godot (GDScript)"]
 var tools    = ["AI-assisted development", "GitHub Copilot"]
-var music    = ["Game OST"]
 ```
 
 ---
 
 ## 🌐 Web Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -36,14 +31,6 @@ var music    = ["Game OST"]
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
----
-
-## 🎵 Music & Composition
-
-![FL Studio](https://img.shields.io/badge/FL%20Studio-FF6E00?style=for-the-badge&logo=image%2Fpng&logoColor=white)
-
-> 🎼 I compose original soundtracks for games.
 
 ---
 
