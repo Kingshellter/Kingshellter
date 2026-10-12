@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kingshellter+%F0%9F%91%8B;Web+Developer+%7C+Game+Dev+%7C+Composer;Building+with+AI%2C+Code+%26+Music)](https://git.io/typing-svg)
 
-![Profile views](https://komarev.com/ghpvc/?username=Kingshellter&color=6E56CF&style=flat-square)
-
 </div>
 
 ---
